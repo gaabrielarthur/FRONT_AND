@@ -1,6 +1,6 @@
 # Projeto Web Design - Gabriel Arthur
 
-Bem-vindo ao meu projeto de Web Design! Este repositório contém a estrutura de um site front-end, desenvolvido como parte dos meus estudos e práticas na área de desenvolvimento web.
+Bem-vindo ao meu projeto de Web Design! Este repositório contém a estrutura de um site front-end (Barberia GGSTUDIO), desenvolvido como parte dos meus estudos e práticas na área de desenvolvimento web.
 
 ## 📁 Estrutura do Projeto
 
@@ -19,4 +19,4 @@ O projeto está organizado da seguinte forma para manter o código limpo e fáci
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Gabriel Arthur** ([@gabrielarthur](https://github.com/gabrielarthur)).
+Desenvolvido por **Gabriel Arthur** ([@gaabrielarthur](https://github.com/gaabrielarthur)).
