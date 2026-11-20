@@ -13,6 +13,7 @@ body {
     --max: 1080px;
 }
 
+
 header {
     display: flex;
     justify-content: space-between;
